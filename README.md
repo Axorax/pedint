@@ -13,3 +13,5 @@ Cool CSS Gradients
 <a href="https://www.github.com/axorax">
   <img src="https://axorax.github.io/badges/github.svg">
 </a><br>
+
+![Preview Image](wp-content/images/delete-me.png)

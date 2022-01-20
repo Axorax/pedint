@@ -6,5 +6,3 @@ Cool CSS Gradients
 [![buymeacoffee](https://axorax.github.io/badges/buymeacoffee.svg)](https://www.buymeacoffee.com/axorax/)
 [![Github](https://axorax.github.io/badges/github.svg)](https://www.github.com/axorax)
 ___
-
-![Preview Image](wp-content/images/delete-me.png)

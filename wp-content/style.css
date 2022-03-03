@@ -8,6 +8,7 @@
 
 body {
     counter-reset: pdNum;
+    scroll-behavior: smooth;
 }
 
 .gradient::before {
